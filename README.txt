@@ -1,4 +1,4 @@
-"Welcome to Tic Tac Toe Game!
+Welcome to Tic Tac Toe Game!
 
 This repository contains the source code for a classic Tic Tac Toe game implemented using HTML, CSS, and JavaScript.
 
@@ -18,4 +18,4 @@ This repository contains the source code for a classic Tic Tac Toe game implemen
 Contributions are welcome! If you find any bugs or want to improve the project, feel free to open an issue or submit a pull request.
 
 ## Contact
-For any inquiries or feedback, please contact Rudra Patel at rudra7042004@gmail.com."
+For any inquiries or feedback, please contact Rudra Patel(me) at rudra7042004@gmail.com.
